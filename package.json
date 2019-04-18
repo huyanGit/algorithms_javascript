@@ -1,0 +1,19 @@
+{
+  "name": "algorithms_javascript",
+  "version": "1.0.0",
+  "description": "algorithms, every day.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyanGit/algorithms_javascript.git"
+  },
+  "author": "huyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyanGit/algorithms_javascript/issues"
+  },
+  "homepage": "https://github.com/huyanGit/algorithms_javascript#readme"
+}
